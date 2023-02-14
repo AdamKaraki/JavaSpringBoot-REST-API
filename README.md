@@ -1,2 +1,3 @@
 # JavaSpringBoot-REST-API
 My Java Spring Boot REST API is a web service that provides an interface for other applications to communicate with your application using the principles of Representational State Transfer (REST). It is built using the Java Spring Boot framework, which provides a simple and efficient way to develop and deploy web applications.
+The API allows clients to interact with your application by sending HTTP requests with specific methods (such as GET, POST, PUT, and DELETE) to specific endpoints (such as /users or /orders). The application then processes these requests and returns an HTTP response with the appropriate data.
